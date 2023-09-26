@@ -1,7 +1,7 @@
 # ReadMe File Generator
         
         ## Description
-        This app will auto generate a readme file based on the user's answers to a series of questions.
+        This app auto generates a readme file based on the user's answers to a series of questions.
         
         ## Table of Contents
         *[Installation](#installation)
@@ -15,13 +15,13 @@
         To install dependencies, run the command: npm i
         
         ## Usage
-        description of how the user can use the repo goes here
+        Description of how the user can use this repo goes here
         
         ## License
         This repository is licensed under the MIT license.
         
         ## Contributing
-        instructions to contribute go here
+        Steps to contribute information go here
         
         ## Tests
         To run tests, run the command: npm run tests
