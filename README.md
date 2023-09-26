@@ -17,11 +17,11 @@ I mostly referred to our recent lessons/activities for this assignment.
 ## URLs submitted
 * My Repo URL: https://github.com/lenzlee/readmeGenerator
 * Application URL: https://lenzlee.github.io/readmeGenerator/
-* Video Demo: https://youtu.be/0QcpFiqfMqY
+* Video Demo: https://youtu.be/0QcpFiqfMqY 
 
 ## My Application Screenshot
 ![alt text](./screenshot-readmegeneratorapp.png)
 
 ## Link to Demo Video
-https://youtu.be/0QcpFiqfMqY
+https://youtu.be/0QcpFiqfMqY 
 
